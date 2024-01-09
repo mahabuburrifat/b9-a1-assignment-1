@@ -4,6 +4,9 @@
     width: 1350px;
     height: 550px;
     border-radius: 15px;
+   
+
+
 
 }
 .small-h{
@@ -12,7 +15,7 @@
     font-size: 25px;
     font-weight: 600;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-top: 70px;
+    padding-top: 150px;
     
 }
  .big-h{
@@ -21,5 +24,42 @@
     font-size: 65px;
     font-weight: 800;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    width: 600px;
+    margin-left: 380px;
+    background: linear-gradient(180deg, #05010c 0%, rgba(7, 2, 17, 0.00) 100%);
  }
+
+ .new-year{
+    background-color: white;
+    border-radius: 20px;
+    margin: 110px auto;
+    width: 600px;
+    height: 520px;
+ }
+ .off{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+    font-weight: 600;
+}
+
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.categories{
+    color: #060111;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.image{
+    margin-left: 180px;
+}
