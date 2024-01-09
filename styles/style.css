@@ -1,0 +1,25 @@
+/*new year section styles*/
+.header{
+    background-image: url('../b9-a1-images/Banner\ Image.png');
+    width: 1350px;
+    height: 550px;
+    border-radius: 15px;
+
+}
+.small-h{
+    text-align: center;
+    color: bisque;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 70px;
+    
+}
+ .big-h{
+    text-align: center;
+    color: bisque;
+    font-size: 65px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
